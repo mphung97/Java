@@ -1,2 +1,2 @@
 # Java
-i love java
+java example
